@@ -73,17 +73,17 @@ https://github.com/emarco177/IceBreaker
 
 ### Hands on - rewinding and checkpint
 https://code.claude.com/docs/en/checkpointing#rewinding-changes
-funciones infinitas 
-.claude/commands/_name_command.md_
-En este archivo, crea el prompt para el /command
 
 ### Hands on - custom slash commands
 https://github.com/emarco177/claude-code-crash-course/tree/project/custom-commands
 https://code.claude.com/docs/en/slash-commands#custom-slash-commands
-
+funciones infinitas 
+.claude/commands/_name_command.md_
+En este archivo, crea el prompt para el /command
 
 ### advanced commands
 https://code.claude.com/docs/en/slash-commands#bash-command-execution
+
 
 ### LSP - language server protocol
 https://code.claude.com/docs/en/plugins-reference#lsp-servers
