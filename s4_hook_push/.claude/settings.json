@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /Users/johncris/Documents/claude-code-crash-course/s4_hook_push/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
