@@ -54,12 +54,28 @@ hook:
 
 ### Memory system
 https://code.claude.com/docs/en/memory#manage-claudes-memory
+Mantiene sessions y settings - ./CLAUDE.md
+shortcuts, rules, standras, details, workflow
+/memory
+reduce instrucciones repetitivas
+/init
+lee el proyecto, crea memory
+
+BUENISIMO
+# instruccion
+- para agregar a memoria
 
 ### Hands on - memory
 https://github.com/emarco177/IceBreaker
+/rewind repone de previos errores si llegan a pasar
+(rollback)
+- esto no aplica para /commands
 
 ### Hands on - rewinding and checkpint
 https://code.claude.com/docs/en/checkpointing#rewinding-changes
+funciones infinitas 
+.claude/commands/_name_command.md_
+En este archivo, crea el prompt para el /command
 
 ### Hands on - custom slash commands
 https://github.com/emarco177/claude-code-crash-course/tree/project/custom-commands
