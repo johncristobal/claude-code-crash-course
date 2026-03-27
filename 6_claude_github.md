@@ -17,7 +17,6 @@ Init and create pull request
 https://github.com/emarco177/langchain-course/pull/35
 @claude => dentro de github podemos para que nos ayuade a solucionar temas
 
-
 ### @claude fix
 https://github.com/emarco177/langchain-course/pull/36
-
+Podemos decirle a claude que haga commits
