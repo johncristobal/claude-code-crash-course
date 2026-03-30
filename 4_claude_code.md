@@ -77,9 +77,11 @@ https://code.claude.com/docs/en/checkpointing#rewinding-changes
 ### Hands on - custom slash commands
 https://github.com/emarco177/claude-code-crash-course/tree/project/custom-commands
 https://code.claude.com/docs/en/slash-commands#custom-slash-commands
-funciones infinitas 
+funciones infinitas que puedes ir configurando
 .claude/commands/_name_command.md_
 En este archivo, crea el prompt para el /command
+
+- Creamps el comando /commit
 
 ### advanced commands
 https://code.claude.com/docs/en/slash-commands#bash-command-execution
